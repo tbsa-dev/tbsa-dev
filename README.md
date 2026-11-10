@@ -25,11 +25,4 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tbsa-dev&theme=rose_pine)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tbsa-dev&theme=rose_pine)
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="LINK-DA-VERSAO-ESCURO">
-    <source media="(prefers-color-scheme: light)" srcset="LINK-DA-VERSAO-CLARO">
-    <img src="LINK-DA-VERSAO-ESCURO" width="350" alt="Snake animation">
-  </picture>
-</p>
-
+![snake gif](https://github.com/tbsa-dev/tbsa-dev/blob/output/github-contribution-grid-snake.gif)
