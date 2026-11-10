@@ -25,7 +25,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tbsa-dev&theme=rose_pine)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tbsa-dev&theme=rose_pine)
 
-![snake gif](https://github.com/tbsa-dev/tbsa-dev/blob/output/github-contribution-grid-snake.gif)
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="LINK-DA-VERSAO-ESCURO">
