@@ -6,6 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=AAAAAA&vCenter=true&width=400&lines=Seja+bem-vindo(a)+ao+meu+GitHub!+%F0%9F%92%9C" />
 </p>
 
+ ![snake gif](https://github.com/tbsa-dev/tbsa-dev/blob/output/github-contribution-grid-snake.gif)
+
+
 🔭 Atualmente
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas.
