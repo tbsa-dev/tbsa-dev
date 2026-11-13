@@ -24,11 +24,3 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tbsa-dev&theme=rose_pine)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tbsa-dev&theme=rose_pine)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tbsa-dev&theme=rose_pine)
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/tbsa-dev/tbsa-dev/output/github-contribution-grid-snake.gif"
-    width="800"
-    alt="Snake animation"
-  />
-</p>
